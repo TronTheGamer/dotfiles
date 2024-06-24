@@ -16,7 +16,7 @@ oh-my-posh init pwsh --config "$env:DOT_CONF\oh-my-posh\multiverse-neon.omp.json
 # gsudo
 # Import-Module gsudoModule
 # ALIASES
-Set-Alias "code" "D:\software\installed\scoop_apps\apps\vscode-insiders\current\Code - Insiders.exe"
+Set-Alias "code" "$env:SCOOP_GLOBAL\apps\vscode-insiders\current\Code - Insiders.exe"
 Set-Alias "MAS" "D:\software\Scripts\MAS.ps1"
 Set-Alias "su" "sudo run"
 Set-Alias "ocwd" "$env:USER_SCRIPT\ocwd.ps1"
@@ -32,9 +32,9 @@ Set-Alias "ocwd" "$env:USER_SCRIPT\ocwd.ps1"
 #  ALIAS
 #############################################################
 
-set-Alias "code" "D:\software\installed\scoop_apps\apps\vscode-dev\current\Code - Insiders.exe"
-set-Alias "subl" "D:\software\installed\scoop_apps\apps\sublime-text\current\subl.exe"
-# set-Alias "em" "D:\software\installed\scoop_apps\apps\emacs\current\bin\runemacs.exe --with-profile 'default'"
+set-Alias "code" "$env:SCOOP_GLOBAL\apps\vscode-dev\current\Code - Insiders.exe"
+set-Alias "subl" "$env:SCOOP_GLOBAL\apps\sublime-text\current\subl.exe"
+# set-Alias "em" "$env:SCOOP_GLOBAL\apps\emacs\current\bin\runemacs.exe --with-profile 'default'"
 
 # BUG: Fix the problem with $emprof in the following
 # function em {

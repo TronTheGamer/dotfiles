@@ -7,3 +7,7 @@ My configuration files for different OS
 * [whkdrc](./Windows/whkdrc)
 * [Powershell Profile](./Windows/Microsoft.PowerShell_profile.ps1)
 * [Auto Hotkey](./Windows/AHK/)
+
+## Linux OS
+
+* 
