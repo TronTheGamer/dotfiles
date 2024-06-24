@@ -10,4 +10,6 @@ My configuration files for different OS
 
 ## Linux OS
 
-* 
+* [Xmonad](https://github.com/TronTheGamer/.xmonad)
+* [Polybar](https://github.com/TronTheGamer/.config-polybar)
+* [DoomEmacs](https://github.com/TronTheGamer/.config-.doom.d)
