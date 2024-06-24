@@ -1,0 +1,2 @@
+Thu Oct 5 23:57:52 2023~@$^*d:/software/installed/Cadence/doc/cap_ref/dialog_box_descriptions_p.html#place_part_dialog_box~@$^*Place Part dialog box <sup><font size="1" color="#A9A9A9">[ SPB22.1 ]</font></sup>
+Thu Oct 5 23:57:51 2023~@$^*d:/software/installed/Cadence/doc/cap_ref/dialog_box_descriptions_p.html#place_part_dialog_box~@$^*144210 <sup><font size="1" color="#A9A9A9">[ SPB22.1 ]</font></sup>
