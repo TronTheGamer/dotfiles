@@ -1,0 +1,100 @@
+/* General styles */
+* {
+  font-family: 'Courier New', 'Font Awesome 6 Free';
+  font-size: 16px;
+}
+
+.bar {
+  padding-right: 5px;
+}
+.bar .widget{
+  background: #bdae93;
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-top: 2px;
+}
+.bar .widget .label{
+  color: #242424;
+  font-weight: bold;
+}
+.bar .widget:hover{
+  background: #fbf1c7;
+}
+
+.label{
+  padding: 2px 5px;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+.ws-btn:hover {
+  background: #fbf1c7;
+}
+.ws-btn {
+  padding: 5px 10px;
+  background: #bdae93;
+  margin: 2px;
+  border-radius: 5px;
+  color: #242424;
+  font-weight: bold;
+}
+.ws-btn.populated{
+  background: #fbf1c7;
+}
+.ws-btn.active {
+  background: #fbf1c7;
+  height: 32px;
+  border-bottom: 1px solid #242424;
+}
+
+
+
+.active-window-widget .label {
+  padding: -5px 7px 0 7px !important;
+}
+
+
+.battery-widget .label.status-full,
+.battery-widget .label.status-charging {
+  color: #5f924d;
+}
+.battery-widget .label.status-critical {
+  color: #d15142;
+}
+.battery-widget .label.status-low {
+  color: #df8a45;
+}
+.battery-widget .label.status-medium {
+  color: #e2b345;
+}
+.battery-widget .label.status-high {
+  color: #b7b85a;
+}
+
+.memory-widget .label.status-low {
+  color: #5f924d;
+}
+.memory-widget .label.status-medium {
+  color: #df8a45;
+}
+.memory-widget .label.status-high {
+  color: #d15142;
+}
+
+.dropdown-button {
+  color: #242424;
+  width: 30px;
+  border-radius: 5px;
+
+}
+.dropdown-button::menu-indicator {
+  height: 0;
+  width: 5px;
+}
+
+
