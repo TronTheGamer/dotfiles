@@ -6,3 +6,4 @@ My configuration files for different OS
 * [Komorebic WM](./Windows/komorebi.json)
 * [whkdrc](./Windows/whkdrc)
 * [Powershell Profile](./Windows/Microsoft.PowerShell_profile.ps1)
+* [Auto Hotkey](./Windows/AHK/)
