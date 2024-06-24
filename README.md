@@ -10,6 +10,7 @@ My configuration files for different OS
 
 ## Linux OS
 
+* [Installation Automation Scripts](https://github.com/TronTheGamer/Linux-Automation)
 * [Xmonad](https://github.com/TronTheGamer/.xmonad)
 * [Polybar](https://github.com/TronTheGamer/.config-polybar)
 * [DoomEmacs](https://github.com/TronTheGamer/.config-.doom.d)
