@@ -15,3 +15,22 @@ My configuration files for different OS
 * [Polybar](https://github.com/TronTheGamer/.config-polybar)
 * [DoomEmacs](https://github.com/TronTheGamer/.config-.doom.d)
 * [starship.toml](https://github.com/TronTheGamer/.config-starship)
+
+### Fish shell Setup
+- Installation:
+```sh
+sudo add-apt-repository ppa:fish-shell/release-3
+sudo apt-get update
+sudo apt-get install fish
+```
+- Install `Fisher`:
+```sh
+curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher
+```
+
+- Add the `config.fish` and `fish_plugin` file to `~/.config/fish/`
+- Do:
+```fish
+fisher update
+```
+
