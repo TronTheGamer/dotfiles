@@ -17,7 +17,7 @@ My configuration files for different OS
 * [starship.toml](https://github.com/TronTheGamer/.config-starship)
 
 ### Fish shell Setup
-- Installation:
+- Installation for DEBIAN BASED OS:
 ```sh
 sudo add-apt-repository ppa:fish-shell/release-3
 sudo apt-get update
