@@ -1,6 +1,9 @@
 # DotFiles
 My configuration files for different OS
 
+#YADM
+* [yadm_repository](https://github.com/TronTheGamer/dotfiles_yadm)
+
 ## Windows OS 11
 
 * [Komorebic WM](./Windows/komorebi.json)
